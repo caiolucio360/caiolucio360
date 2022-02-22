@@ -1,4 +1,4 @@
-## Olá, eu sou o Caio Lucio, desenvolvedor web full stack!
+## Hi, im Caio Lucio, a Full Stack web developer!
 <div align="center">
   <a href="https://github.com/caiolucio360">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiolucio360&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
