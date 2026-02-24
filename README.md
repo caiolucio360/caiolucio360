@@ -41,10 +41,6 @@ Desenvolvedor focado em construir aplicações robustas e escaláveis. Atualment
 
 <br>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=caiolucio360&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 ---
 
 ### 📫 Connect with me
