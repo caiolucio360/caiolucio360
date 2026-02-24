@@ -3,12 +3,12 @@
 
 ---
 
-### 🚀 Sobre mim
-Desenvolvedor focado em construir aplicações robustas e escaláveis. Atualmente explorando ecossistemas modernos como **Next.js**, **Neon DB** e arquiteturas de Microserviços.
+### 🚀 About Me
+Software Developer focused on building robust and scalable applications. Currently exploring modern ecosystems like **Next.js**, **Neon DB**, and Microservices architectures.
 
-* 🔭 **Atualmente:** Focado em desenvolvimento de APIs com .NET Core e integrações de Frontend.
-* 🌱 **Estudando:** Performance em Bancos de Dados e CI/CD.
-* 🎮 **Hobbies:** Entusiasta de Counter-Strike e League of Legends, entusiasta de DIY e cultivo indoor.
+* 🔭 **Currently working on:** Building robust APIs with .NET Core and Frontend integrations.
+* 🌱 **Learning:** Database Performance and CI/CD pipelines.
+* 🎮 **Hobbies:** Counter-Strike and League of Legends player, DIY enthusiast, and indoor plant grower.
 
 ---
 
