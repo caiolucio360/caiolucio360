@@ -6,9 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/caio-lucio-alves-pereira-354027168/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:caioluci1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://gaming-boost.vercel.app"><img src="https://img.shields.io/badge/Live_project-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live project"></a>
-</p>
+  <a href="mailto:caioluci1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a></p>
 
 ---
 
@@ -19,7 +17,6 @@
 Hi, I'm Caio! 👋 I build web applications end to end — from **C# / .NET APIs** and relational databases to **React / Next.js** interfaces written in TypeScript.
 I care about clean architecture, maintainable code and shipping products that real users depend on.
 
-- 🔭 Currently building **[Gaming Boost](https://github.com/caiolucio360/gaming-boost)**, a full-stack marketplace with PIX payments
 - 🤖 Exploring AI-assisted development workflows with **[DevFlow AI](https://github.com/caiolucio360/devflow-ai)**
 - ⚔️ Bleach fan — debugging production at 2am is just my bankai training
 - 💬 Open to opportunities and collaborations — feel free to reach out
@@ -37,7 +34,6 @@ I care about clean architecture, maintainable code and shipping products that re
 
 | Project | Description | Stack |
 |---|---|---|
-| **[Gaming Boost](https://github.com/caiolucio360/gaming-boost)** · [live](https://gaming-boost.vercel.app) | Full-stack platform connecting players with professional boosters, with secure order flow, in-order chat and PIX payments. | Next.js · TypeScript · Tailwind |
 | **[DevFlow AI](https://github.com/caiolucio360/devflow-ai)** | Claude Code workflow commands to standardize planning, implementation and review across backend + frontend projects. | JavaScript · Shell |
 | **[SignalR Notification](https://github.com/caiolucio360/SignalR_Notification)** | Real-time notification system using ASP.NET Core SignalR with a web client. | C# · .NET · TypeScript |
 | **[Console Chess](https://github.com/caiolucio360/xadrez-console)** | Chess game for the terminal, built to practice object-oriented design in C#. | C# · .NET |
