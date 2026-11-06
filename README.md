@@ -14,11 +14,14 @@
 
 ## About me
 
-I build web applications end to end — from **C# / .NET APIs** and relational databases to **React / Next.js** interfaces written in TypeScript.
+<img align="right" alt="Caio-Ichigo" src="https://c.tenor.com/MV927m9Xw1UAAAAi/ichigo-kurusaki-hollow.gif" width="110">
+
+Hi, I'm Caio! 👋 I build web applications end to end — from **C# / .NET APIs** and relational databases to **React / Next.js** interfaces written in TypeScript.
 I care about clean architecture, maintainable code and shipping products that real users depend on.
 
 - 🔭 Currently building **[Gaming Boost](https://github.com/caiolucio360/gaming-boost)**, a full-stack marketplace with PIX payments
 - 🤖 Exploring AI-assisted development workflows with **[DevFlow AI](https://github.com/caiolucio360/devflow-ai)**
+- ⚔️ Bleach fan — debugging production at 2am is just my bankai training
 - 💬 Open to opportunities and collaborations — feel free to reach out
 
 ## Tech stack
