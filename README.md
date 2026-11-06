@@ -1,6 +1,6 @@
 <h1 align="center">Caio Lucio</h1>
 <p align="center">
-  <strong>Full Stack Developer · .NET & Next.js</strong><br>
+  <strong>Full Stack Developer · AI-first builder</strong><br>
   Belo Horizonte, Brazil 🇧🇷
 </p>
 
@@ -14,21 +14,19 @@
 
 <img align="right" alt="Caio-Ichigo" src="https://c.tenor.com/MV927m9Xw1UAAAAi/ichigo-kurusaki-hollow.gif" width="110">
 
-Hi, I'm Caio! 👋 I build web applications end to end — from **C# / .NET APIs** and relational databases to **React / Next.js** interfaces written in TypeScript.
-I care about clean architecture, maintainable code and shipping products that real users depend on.
+Hi, I'm Caio! 👋 I build software end to end — backend, frontend, data and deploy.
+I don't tie myself to a single stack: with AI in my workflow, I pick the right tool for each problem and ship it.
 
 - 🤖 Exploring AI-assisted development workflows with **[DevFlow AI](https://github.com/caiolucio360/devflow-ai)**
 - ⚔️ Bleach fan — debugging production at 2am is just my bankai training
 - 💬 Open to opportunities and collaborations — feel free to reach out
 
-## Tech stack
+## How I work
 
-| Area | Technologies |
-|---|---|
-| **Backend** | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
-| **Frontend** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
-| **DevOps & Tools** | ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
+- 🧠 **Problem first, stack second** — the tech is chosen by the problem, not by habit
+- 🤖 **AI-powered workflow** — I use AI agents to plan, build, review and learn new tools fast
+- 🏗️ **Solid fundamentals** — architecture, clean code and good engineering practices carry across any language
+- 🚀 **Ship it** — from idea to production, end to end
 
 ## Featured projects
 
@@ -41,6 +39,6 @@ I care about clean architecture, maintainable code and shipping products that re
 ## GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=caiolucio360&show_icons=true&count_private=true&hide_border=true&theme=github_dark" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=caiolucio360&layout=compact&langs_count=6&hide_border=true&theme=github_dark" alt="Top languages">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=caiolucio360&theme=github_dark" alt="GitHub stats">
+  <img height="165" src="https://streak-stats.demolab.com?user=caiolucio360&theme=github-dark-blue&hide_border=true" alt="GitHub streak">
 </p>
